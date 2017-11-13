@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Dbus</string>
+
+    <string name="busroute">Bus Route</string>
+    <string name="ppoints">Pickup Points</string>
+    <string name="title_activity_dash_board">DashBoard</string>
+    <string name="driverinfo">Driver Info</string>
+    <string name="title_activity_bus_route">BusRoute</string>
+    <string name="action_settings">Setting</string>
+    <string name="busno">Bus Number :</string>
+    <string name="city">City : </string>
+    <string name="title_activity_driver_info">Driver Information</string>
+    <string name="driver_name">Driver Name  </string>
+    <string name="driver_city">City  </string>
+    <string name="bus_no">Bus Number  </string>
+    <string name="driver_contact">Contact Number </string>
+    <string name="title_activity_pick_up_points">PickUpPoints</string>
+    <string name="select_radio">Please Select :</string>
+    <string name="fromcollege">From College</string>
+    <string name="tocollege">To College</string>
+    <string name="ppnumber">Number</string>
+    <string name="ppname">Name</string>
+    <string name="pickuppoints">Pickup Points : </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="webservice">http://vamik.5gbfree.com</string>
+    <string name="webservice1">http://192.168.23.1</string>
+    <string name="Control">Switch LOCAL/Online</string>
+</resources>
